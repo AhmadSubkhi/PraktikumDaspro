@@ -13,5 +13,6 @@ public class GanjilGenap {
         } else {
             System.out.println("Ganjil");
         }
+        
     }
 }
